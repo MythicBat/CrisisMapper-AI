@@ -8,6 +8,6 @@ config = {
     "password": "exasJpFFhvhs5DGf",
     "database": "test",
     "port": 4000,
-    "ssl_ca": "C:\Users\Alin Merchant\OneDrive\Desktop\CrisisMapper-AI\CrisisMapper-AI\db\isrgrootx1.pem",
+    "ssl_ca": "C:/Users/Alin Merchant/OneDrive/Desktop/CrisisMapper-AI/CrisisMapper-AI/db/isrgrootx1.pem",
     "ssl_verify_cert": True
 }
